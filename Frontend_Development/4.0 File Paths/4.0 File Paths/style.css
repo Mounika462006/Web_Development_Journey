@@ -1,0 +1,9 @@
+h1{
+    background-color: rgb(223, 217, 228);
+}
+.head{
+    color: hsl(262, 90%, 39%);
+}
+h3[draggable = "true"]{
+    color: brown;
+}
