@@ -14,7 +14,7 @@ addBtn.addEventListener("click", function () {
         return;
     }
 
-    // Create list item
+    // Create list item.       
     const li = document.createElement("li");
 
     // Create span for task text
