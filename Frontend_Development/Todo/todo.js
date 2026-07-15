@@ -13,7 +13,7 @@ addBtn.addEventListener("click", function () {
         alert("Please enter a task");
         return;
     }
-
+    
     // Create list item.       
     const li = document.createElement("li");
 
