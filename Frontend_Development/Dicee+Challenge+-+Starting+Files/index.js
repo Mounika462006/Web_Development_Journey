@@ -8,7 +8,7 @@
     var randomImageSource2 = "images/" + randomDiceImage2;
 
     var image1 = document.querySelectorAll("img")[0];
-    var image2 = document.querySelectorAll("img")[1];   
+    var image2 = document.querySelectorAll("img")[1];       
       
     image1.setAttribute("src", randomImageSource1);
     image2.setAttribute("src", randomImageSource2);
